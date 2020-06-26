@@ -1,4 +1,4 @@
-# HTML-CSS-Bootstrap_Project
+# HTML-CSS-Bootstrap_Website
 
 GitHub pages: 
 * https://cembugey.github.io/HTML-CSS-Bootstrap_Website/
