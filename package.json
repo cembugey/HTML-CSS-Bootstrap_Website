@@ -1,0 +1,16 @@
+{
+  "name": "html-css-bootstrap_project",
+  "version": "1.0.0",
+  "description": "GitHub pages:  * https://cembugey.github.io/HTML-CSS-Bootstrap_Website/ * https://cembugey.github.io/HTML-CSS-Bootstrap_Website/aboutus.html * https://cembugey.github.io/HTML-CSS-Bootstrap_Website/category.html",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d website"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "homepage": "https://cembugey.github.io/HTML-CSS-BOOTSTRAP_Website",
+  "dependencies": {
+    "gh-pages": "^2.2.0"
+  }
+}
